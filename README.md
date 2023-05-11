@@ -1,7 +1,7 @@
 # springdroolEngine
 Drools is a Business Rule Management System (BRMS) solution. It provides a rule engine which processes facts and produces output as a result of rules and facts processing. Centralization of business logic makes it possible to introduce changes fast and cheap
 
-In Drrol Engine you can manage Business rules via  .DRL file or via Spreadsheet (XLSX) (manage rules via Spreadsheet is easy to understand by any non technical person)
+In Drrol Engine you can manage Business rules via  .DRL file or via Spreadsheet (XLSX) (manage rules via Spreadsheet is easy to understand by any non technical person) Solution also with Junit cases.
 
 Localhost Drool Response -
 
