@@ -3,6 +3,6 @@ Drools is a Business Rule Management System (BRMS) solution. It provides a rule 
 
 In Drrol Engine you can manage Business rules via  .DRL file or via Spreadsheet (XLSX) (manage rules via Spreadsheet is easy to understand by any non technical person) Solution also with Junit cases.
 
-Localhost Drool Response -  
+Localhost Drool Response -     
  
 ![image](https://user-images.githubusercontent.com/10513267/235473527-b2d4b632-f35f-403c-9fd2-a2d7fa9ff697.png)
